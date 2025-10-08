@@ -1,6 +1,6 @@
 # Evolutive-neural-network
 
-Abastract
+Abastract:
 Inspired by a research paper describing a method to automate the discovery of neural network models[https://arxiv.org/abs/1703.01041], the DynamicNetwork module enables the user to 
 creat a DynamicNetwork object, which, at initialization, is a simple linear network without convolution, and to evolve it via the evolve() method. A random mutation(adding or
 removal of convolutive or linear layers, of neurone, the changing of the learning rate...) is then picked and applied to the object. Via the compete function from the same module,
