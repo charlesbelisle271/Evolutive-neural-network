@@ -7,4 +7,3 @@ removal of convolutive or linear layers, of neurone, the changing of the learnin
 the user can make two different DynamicNetwork object compete with each other in order to keep the better one, make an infant copy of it, and kill the worst one. The infant 
 inherits the structure and weights of its parent and then goes through one mutation. The aim of this scheme is to have a population of many DynamicNetwork objects
 and make them compete with each other in the hope of discovering a model which is efficent on a given dataset
-An automated evolutive neural network inspired by a research team's article on the same subject[https://arxiv.org/abs/1703.01041]
