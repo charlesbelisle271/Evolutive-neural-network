@@ -14,3 +14,6 @@ and make them compete with each other in the hope of discovering a model which i
 
 The module is built using Pytorch, which can be downloaded, along with its pre requisites, on the Pytorch website[ https://pytorch.org/ ]. It also uses the numpy module. 
 
+### Description of the files
+
+The DynamicNetwork.py file is the actual module and the HowTo.ipynb is a jupyter notebook showing the basics of how to use the DynamicNetwork module. 
